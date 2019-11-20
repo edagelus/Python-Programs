@@ -1,0 +1,14 @@
+#The program  prints the multiplication table of 2 using for loop:
+#for i in range(11):
+  #print(i*2)
+
+# The below prrints the addition of first 1o numbers
+#answer = 0
+#for i in range(11):
+ # answer=answer+i
+#print(answer)
+#The program prints the addition of first 1000 numbers using a for looping statement .
+answer = 0
+for i in range(1001):
+  answer = answer+i 
+  print("First ",i,"numbers, when added, gives ", answer)
